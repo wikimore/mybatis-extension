@@ -1,7 +1,7 @@
-package com.wikimore.mybatis.model;
+package com.github.wikimore.mybatis.model;
 
-import com.wikimore.mybatis.paging.Limit;
-import com.wikimore.mybatis.shard.Shard;
+import com.github.wikimore.mybatis.paging.Limit;
+import com.github.wikimore.mybatis.shard.Shard;
 
 /**
  * @author Ted Wang

@@ -1,4 +1,4 @@
-package com.wikimore.mybatis.paging;
+package com.github.wikimore.mybatis.paging;
 
 /**
  * @author Ted Wang
