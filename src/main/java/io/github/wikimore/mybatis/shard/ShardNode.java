@@ -1,4 +1,4 @@
-package com.github.wikimore.mybatis.shard;
+package io.github.wikimore.mybatis.shard;
 
 /**
  * @author Ted Wang
